@@ -105,7 +105,7 @@ Interactively asks the user three questions and composes a personalised open-sou
 
 ### Step 1 — Clone the repository
 ```bash
-git clone https://github.com/mukul2045/oss-audit-project
+git clone https://github.com/utkarshmathur2507-ai/oss-audit.project
 cd linux-
 ```
 
